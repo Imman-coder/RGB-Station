@@ -1,6 +1,16 @@
 # RGB-Station
 
-An Mordern example for PyQt5, PySide2 GUI with custom interface.
+An Mordern example for PyQt5, PySide2 GUI with custom interface. Just a Dummy Gui.
+
+![Test Image 1](https://github.com/Imman-coder/RGB-Station/blob/main/Screenshots/Body1.png)
+
+![Test Image 2](https://github.com/Imman-coder/RGB-Station/blob/main/Screenshots/Body2.png)
+
+![Test Image 3](https://github.com/Imman-coder/RGB-Station/blob/main/Screenshots/Dialog_box.png)
+
+![Test Image 4](https://github.com/Imman-coder/RGB-Station/blob/main/Screenshots/Notification.png)
+
+![Test Image 5](https://github.com/Imman-coder/RGB-Station/blob/main/Screenshots/System_tray_icon.png)
 
 ## Installation
 
